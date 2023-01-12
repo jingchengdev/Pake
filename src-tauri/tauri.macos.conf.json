@@ -2,9 +2,9 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "icons/weread.icns"
+        "icons/chatgpt.icns"
       ],
-      "identifier": "com.tw93.weread",
+      "identifier": "com.openai.chatgpt",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
